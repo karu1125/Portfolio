@@ -1,5 +1,6 @@
 # Ex01 Portfolio
-## Date: 30/10/2026
+## Date: 30.10.2026
+## Karthic U - 212224040151
 
 ## AIM
 To create a Portfolio using HTML and CSS.
